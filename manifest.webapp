@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "name": "Self Camera",
+  "description": "This app is for taking self pictures and this is a firefox os app",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/images/icon16.png",
+    "48": "/images/icon48.png",
+    "128": "/images/icon128.png"
+  },
+  "developer": {
+    "name": "Ayan Choudhury", "url":"https://mozillians.org/en-US/u/TechnoAyan/"  },
+  "installs_allowed_from": ["*"],
+ "default_locale": "en"
+
+}
